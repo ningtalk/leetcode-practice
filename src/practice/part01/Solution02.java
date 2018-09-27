@@ -30,15 +30,15 @@ public class Solution02 {
             carry = tmpV / 10;
 
             currentNode = currentNode.next;
-            if(p != null) {
+            if (p != null) {
                 p = p.next;
             }
-            if(q != null) {
+            if (q != null) {
                 q = q.next;
             }
         }
 
-        if(carry == 1) {
+        if (carry == 1) {
             currentNode.next = new ListNode(1);
         }
 

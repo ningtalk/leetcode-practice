@@ -11,6 +11,7 @@ import java.util.Set;
  */
 public class Solution03 {
 
+    // 滑动窗口实现
     public static int lengthOfLongestSubstring(String s) {
         int len = 0;
         if (s == null || s.length() == 0) {

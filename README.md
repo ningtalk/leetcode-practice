@@ -7,6 +7,7 @@
 * [无重复字符的最长子串](https://github.com/npvip/leetcode-practice/blob/master/src/practice/part01/Solution03.java)
 * [两个排序数组的中位数](https://github.com/npvip/leetcode-practice/blob/master/src/practice/part01/Solution04.java)
 * [最长回文子串](https://github.com/npvip/leetcode-practice/blob/master/src/practice/part01/Solution05.java)
+* [回文数](https://github.com/npvip/leetcode-practice/blob/master/src/practice/part01/Solution09.java)
 
 ## part02
 * [冒泡排序](https://github.com/npvip/leetcode-practice/blob/master/src/practice/part02/BubbleSortDemo.java)

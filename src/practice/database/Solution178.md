@@ -12,7 +12,7 @@
 
 * 代码  
 ```sql
-ELECT Score, (SELECT COUNT(DISTINCT Score)  FROM Scores s2 WHERE s2.SCORE >= s1.SCORE ) r
+SELECT Score, (SELECT COUNT(DISTINCT Score)  FROM Scores s2 WHERE s2.SCORE >= s1.SCORE ) r
 FROM Scores s1
 ORDER BY Score DESC;
 ```

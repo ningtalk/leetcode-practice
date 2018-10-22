@@ -16,4 +16,5 @@
 
 ## 数据库  
 * [第N高薪水](https://github.com/npvip/leetcode-practice/blob/master/src/practice/database/solution177.md)
-* [分数排名](https://github.com/npvip/leetcode-practice/blob/master/src/practice/database/Solution178.md)
+* [分数排名](https://github.com/npvip/leetcode-practice/blob/master/src/practice/database/Solution178.md)  
+* [部门工资前三高的员工](https://github.com/npvip/leetcode-practice/blob/master/src/practice/database/Solution185.md)
